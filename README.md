@@ -4,6 +4,6 @@
 
 ![image](https://github.com/kushalbose92/camp/blob/main/camp-model.png)
 
-~
+```
 sh run_all.sh 
-~
+```
